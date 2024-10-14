@@ -13,7 +13,7 @@ Python has two built-in functions that work with inheritance:
 - Use  `issubclass()` to check class inheritance: `issubclass(bool, int)` is `True` since bool is a subclass of int. However, issubclass(float, int) is `False` since `float` is not a subclass of `int`.
 
 
-In this project, I learnt:
+In this project, I learnt :
 - Why Python programming is awesome
 - What is a superclass, baseclass or parentclass
 - What is a subclass
