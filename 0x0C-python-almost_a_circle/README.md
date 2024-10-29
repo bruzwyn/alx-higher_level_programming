@@ -27,7 +27,7 @@ The three classes involved utilizing the following Python tools:
 ## Classes :cl:
 
 ### Base
-Represents the "base" class for all other classes in the project. Includes:
+Represents the "base" class for all other classes in the project. Includes::
 
 * Private class attribute `__nb_objects = 0`.
 * Public instance attribute `id`.
